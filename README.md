@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hey there, I'm Djani Nanda<br><br> I'm a freelance web developer and software engineer with a passion for building clean, functional, and user-focused digital experiences.  <br><br>💼 I specialize in developing dynamic websites and custom web applications using modern technologies like **Django**, **React**, **JavaScript**, and **Python**. Whether it's a landing page for a brand, a full-stack app, or a RESTful API, I enjoy turning ideas into reality.<br><br>🧰 I'm comfortable working both on the frontend and backend, and I love collaborating with clients to create solutions that actually solve problems.<br><br>🧪 Always learning and evolving — currently diving deeper into API integrations, performance optimization, and scalable architecture for SaaS apps.<br><br><br>
 
 
