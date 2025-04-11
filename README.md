@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0046B8,100:8438FF&height=160&section=header&text=Hey,%20I'm%20Djani%20Nanda&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0046B8,100:8438FF&height=200&section=header&text=Hey,%20I'm%20Djani%20Nanda&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 I'm a freelance web developer and software engineer with a passion for building clean, functional, and user-focused digital experiences.
 
